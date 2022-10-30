@@ -1,0 +1,29 @@
+{
+    "IsEnabled": true,
+    "Games": [
+        {
+            "AppTitle": "Battle Island",
+            "IconUrl": "https://crosspromogames.s3.ap-south-1.amazonaws.com/BattleIslandPromo.png",
+            "PageUrl": "https://www.crazygames.com/game/battle-island",
+            "Id": "com.battle.island"
+        },
+        {
+            "AppTitle": "SweetShop 3D",
+            "IconUrl": "https://crosspromogames.s3.ap-south-1.amazonaws.com/SweetShopPromo.png",
+            "PageUrl": "https://www.crazygames.com/game/sweet-shop-3d",
+            "Id": "com.sweetshop"
+        },
+        {
+            "AppTitle": "Biomons Island",
+            "IconUrl": "https://crosspromogames.s3.ap-south-1.amazonaws.com/BiomonsIslandPromo.png",
+            "PageUrl": "https://www.crazygames.com/game/biomons-island-3d",
+            "Id": "com.biomons.island"
+        },
+        {
+            "AppTitle": "Startup Fever",
+            "IconUrl": "https://crosspromogames.s3.ap-south-1.amazonaws.com/StartUp+Icon+2.png",
+            "PageUrl": "",
+            "Id": "com.startup.fever"
+        }
+    ]
+}
